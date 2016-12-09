@@ -20,14 +20,14 @@ npm run dev
 Open your browser and point to http://localhost:3001/
 
 ### What *Is* Included
-* ReactJS
-* Redux (and Redux DevTools)
-* Grunt
-* (Basic) NodeJS Server
-* Babel
-* Pug
+* [React](https://github.com/facebook/react.git)
+* [Redux](https://github.com/reactjs/redux.git) (and [Redux DevTools](https://github.com/gaearon/redux-devtools.git))
+* [Grunt](https://github.com/gruntjs/grunt.git)
+* (Basic) [NodeJS](https://nodejs.org/en/) Server
+* [Babel](https://github.com/babel/babel)
+* [Pug](https://github.com/pugjs/pug.git)
+* [Webpack](https://github.com/webpack/webpack.git)
 * ES6-support
-* Webpack
 * Basic Folder Structure
 * Basic Example Page (Home)
 * Basic Skeleton for Redux Actions, Reducers
