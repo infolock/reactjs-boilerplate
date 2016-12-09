@@ -2,7 +2,7 @@
 *Simplified FTW baby...FTW.*
 
 ### Installation
-**NOTE**: In order to use this boilerplate, you need to have Node 6.9.2+.
+(**Requires Node 6.9.2+**)
 
 * Run `npm install`
 * Run `grunt build`
