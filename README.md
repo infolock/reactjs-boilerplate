@@ -1,1 +1,2 @@
-# reactjs-boilerplate
+# ReactJS Boilerplate
+### Simplified FTW baby...FTW.

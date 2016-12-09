@@ -1,0 +1,19 @@
+doctype html
+html(lang="en")
+  head
+    style.
+      @charset "UTF-8";
+  body
+    div#page
+      div.main-wrapper
+        div.home.container
+            h1 A Simple ReactJS Boilerplate
+
+script(type='text/javascript').
+    if(1) {
+      window.App = {};
+      window.App.csrfToken = "#{token}";
+    }
+
+script(src='./dist/vendor.bundle.js')
+script(src='./dist/dist.bundle.js')

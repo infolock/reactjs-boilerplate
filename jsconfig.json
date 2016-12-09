@@ -1,0 +1,9 @@
+{
+    "allowJS": true,
+    "allowSyntheticDefaultImports": true,
+    "search.exclude": {
+        "**/libs": true,
+        "**/node_modules": true,
+        "**/bower_components": true
+    }
+}
