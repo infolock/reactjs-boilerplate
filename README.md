@@ -36,7 +36,7 @@ Open your browser and point to http://localhost:3001/
 
 ### What Is **NOT** Included
 * Unit Testing (because its up to you if you wanna be leet)
-* Complicated Directory Structure (because KISS)
+* Complicated Directory Structure (because [KISS](https://en.wikipedia.org/wiki/KISS_principle))
 * Shoot Yourself in the Foot Warranty/Protection (because you're a big boy - and big boy pants are good)
 * Complicated Redux Setup/Configuration (See 2nd and 3rd Bullet Points above)
 * Complicated React Router Setup/Configure (See 2nd and 3rd Bullet Points above)
