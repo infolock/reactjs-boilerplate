@@ -1,5 +1,6 @@
 # ReactJS Boilerplate
 ![KISS](kiss.jpg?raw=true "KISS")
+
 *Simplified FTW baby...FTW.*
 
 ### Installation
