@@ -34,7 +34,7 @@ Open your browser and point to http://localhost:3001/
 * Basic Wiring for Redux ConfigureStore
 * Basic React Router
 
-### What Is **NOT** Included
+### What Is *NOT* Included
 * Unit Testing (because its up to you if you wanna be leet)
 * Complicated Directory Structure (because [KISS](https://en.wikipedia.org/wiki/KISS_principle))
 * Shoot Yourself in the Foot Warranty/Protection (because you're a big boy - and big boy pants are good)
@@ -45,7 +45,7 @@ Open your browser and point to http://localhost:3001/
 This boilerplate is simply that - a boilerplate.  Its aim is to make getting React up and running fast and as simple as possible.  Want to make it better?  Awesome!  Fork it, Clone it, use it, do it!
 
 ### Why Another Boilerplate?
-@See What Is **NOT** Included (above)
+@See What Is *NOT* Included (above)
 
 ### License
 MIT - exxxxcellent smithers
