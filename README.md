@@ -4,12 +4,18 @@
 ### Installation
 (**Requires Node 6.9.2+**)
 
-* Run `npm install`
-* Run `grunt build`
+Run the following:
+```
+npm install
+grunt build
+```
 
 ### Running Local (DEV) Environment
-* Run `npm run dev`
-* Open your browser and point to http://localhost:3001/
+Run the following:
+```
+npm run dev
+```
+Open your browser and point to http://localhost:3001/
 
 ### What *Is* Included
 * ReactJS
