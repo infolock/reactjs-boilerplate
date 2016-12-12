@@ -47,5 +47,15 @@ This boilerplate is simply that - a boilerplate.  Its aim is to make getting Rea
 ### Why Another Boilerplate?
 @See What Is *NOT* Included (above)
 
+### WTF, Why No Unit Tests?
+Unit tests were not included because there is no 1 solution that is perfect, nor is there one set that everyone agrees on.  That being said, it is up to you (the developer(s)) to decide this for yourself.
+
+If you're looking for a great discussion on this topic, there was one started on the reactjs.org boards which you can find here: https://discuss.reactjs.org/t/whats-the-prefered-way-to-test-react-js-components/26
+
+Me personally, I found this article as a great place to get started: https://www.toptal.com/react/how-react-components-make-ui-testing-easy
+
+There are other _great_ resources as well.  Google searching "react unit test examples" is a great place to start.
+
+
 ### License
 MIT - exxxxcellent smithers
