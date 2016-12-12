@@ -44,8 +44,16 @@ Open your browser and point to http://localhost:3001/
 
 This boilerplate is simply that - a boilerplate.  Its aim is to make getting React up and running fast and as simple as possible.  Want to make it better?  Awesome!  Fork it, Clone it, use it, do it!
 
+### Where to Start
+The best place to start is in `entry.js`.
+
+Follow the `require` items (which are few) to understand the basic structure.  You will notice that it is _extremely_ simplistic.  This is by design.  It should be easy to strip out this _example_ with your own approach or continuing down the same path.
+
+
 ### Why Another Boilerplate?
-@See What Is *NOT* Included (above)
+Simply put - I haven't found a boilerplate that just lays out the basic environment and let you decide the implementation path.  Most try to enforce their own personal way of how they learned react, create tightly-coupled directory structures and controllers/routers, etc.  
+
+I wanted just a way to just download a boilerplate, install it, and then tweak it to suit my needs with the least amount of effort.  That's what this boilerplate is.  
 
 ### WTF, Why No Unit Tests?
 Unit tests were not included because there is no 1 solution that is perfect, nor is there one set that everyone agrees on.  That being said, it is up to you (the developer(s)) to decide this for yourself.
