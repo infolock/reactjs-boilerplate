@@ -58,4 +58,4 @@ There are other _great_ resources as well.  Google searching "react unit test ex
 
 
 ### License
-MIT - exxxxcellent smithers
+MIT
