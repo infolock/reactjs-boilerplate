@@ -1,8 +1,6 @@
 # ReactJS Boilerplate
 ![KISS](kiss.jpg?raw=true "KISS")
 
-*Simplified FTW baby...FTW.*
-
 ### Installation
 (**Requires Node 6.9.2+**)
 
